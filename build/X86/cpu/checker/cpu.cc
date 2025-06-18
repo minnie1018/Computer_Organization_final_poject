@@ -1,0 +1,1 @@
+/home/minnie/gem5/src/cpu/checker/cpu.cc

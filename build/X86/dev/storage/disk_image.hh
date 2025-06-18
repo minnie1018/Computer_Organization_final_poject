@@ -1,0 +1,1 @@
+/home/minnie/gem5/src/dev/storage/disk_image.hh

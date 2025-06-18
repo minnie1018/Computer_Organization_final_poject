@@ -1,0 +1,1 @@
+/home/minnie/NVmain/Endurance/Distributions/Normal.cpp
