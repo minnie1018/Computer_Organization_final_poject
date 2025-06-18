@@ -1,0 +1,3 @@
+./build/X86/gem5.opt configs/example/se.py -c tests/test-progs/hello/bin/x86/linux/quicksort --cpu-type=TimingSimpleCPU --caches --l2cache --l3cache --mem-type=NVMainMemory  --nvmain-config=../NVmain/Config/PCM_ISSCC_2012_4GB.config --l1i_size=32kB --l1d_size=32kB --l2_size=128kB --l3_size=1MB --l3_assoc=2
+
+#Maybe because the L3 cache size is relatively large (as specified in the assignment), the overall miss rate remains the same across different associative configurations. The only noticeable difference is in the value of l3.tags.replacements, which reflects the number of actual cache block replacements.
