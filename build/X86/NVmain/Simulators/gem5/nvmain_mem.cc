@@ -1,1 +1,0 @@
-/home/minnie/NVmain/Simulators/gem5/nvmain_mem.cc

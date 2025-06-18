@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/arch/isa_parser.py

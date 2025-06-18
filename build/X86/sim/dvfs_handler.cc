@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/sim/dvfs_handler.cc

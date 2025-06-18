@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/arch/sparc/isa_traits.hh

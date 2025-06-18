@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/arch/x86/isa/insts/x87/arithmetic/partial_remainder.py

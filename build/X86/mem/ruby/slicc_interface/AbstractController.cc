@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/mem/ruby/slicc_interface/AbstractController.cc

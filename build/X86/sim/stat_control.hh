@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/sim/stat_control.hh

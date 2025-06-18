@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/cpu/testers/traffic_gen/random_gen.cc

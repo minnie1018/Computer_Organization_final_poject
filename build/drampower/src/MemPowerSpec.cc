@@ -1,1 +1,0 @@
-/home/minnie/gem5/ext/drampower/src/MemPowerSpec.cc

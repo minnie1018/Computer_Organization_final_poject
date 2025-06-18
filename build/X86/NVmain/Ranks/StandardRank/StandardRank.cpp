@@ -1,1 +1,0 @@
-/home/minnie/NVmain/Ranks/StandardRank/StandardRank.cpp

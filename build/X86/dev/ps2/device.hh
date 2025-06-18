@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/dev/ps2/device.hh

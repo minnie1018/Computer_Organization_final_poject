@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/mem/cache/prefetch/stride.cc

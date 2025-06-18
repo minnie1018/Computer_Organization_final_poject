@@ -1,1 +1,0 @@
-/home/minnie/gem5/src/arch/x86/isa/insts/x87/control/__init__.py
